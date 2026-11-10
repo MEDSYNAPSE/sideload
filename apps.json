@@ -135,17 +135,17 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "2",
-          "date": "2026-11-10T22:56:14+13:00",
+          "buildVersion": "3",
+          "date": "2026-11-11T00:24:56+13:00",
           "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/magic-playground.ipa",
-          "size": 32296405,
+          "size": 37631225,
           "minOSVersion": "17.0"
         }
       ],
       "version": "1.0",
-      "versionDate": "2026-11-10T22:56:14+13:00",
+      "versionDate": "2026-11-11T00:24:56+13:00",
       "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/magic-playground.ipa",
-      "size": 32296405,
+      "size": 37631225,
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
