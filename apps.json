@@ -1,0 +1,156 @@
+{
+  "name": "Rise Labs",
+  "identifier": "nz.pasifikarise.sideload",
+  "subtitle": "Home-made apps, unsigned, for sideloading.",
+  "sourceURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/icons/scope.png",
+  "tintColor": "FFB554",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "Scope",
+      "bundleIdentifier": "nz.pasifikarise.scope",
+      "developerName": "Rise Labs",
+      "subtitle": "Camera on one device, monitor on another.",
+      "localizedDescription": "Turns one iPhone or iPad into a camera and another into its monitor. Live picture and sound over your own Wi-Fi, encrypted, paired with a family code. No account and nothing uploaded.\n\nNot a medical or safety device. It does not replace an adult checking on a child.",
+      "iconURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/icons/scope.png",
+      "tintColor": "FFB554",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-10T19:04:48+13:00",
+          "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/scope.ipa",
+          "size": 1704941,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-10T19:04:48+13:00",
+      "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/scope.ipa",
+      "size": 1704941,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scope sends this device's camera picture to your other devices that use the same family code.",
+          "NSLocalNetworkUsageDescription": "Scope finds your other devices on this Wi-Fi so the camera and the monitor can connect directly.",
+          "NSMicrophoneUsageDescription": "Scope sends the sound in the room to your other devices that use the same family code."
+        }
+      }
+    },
+    {
+      "name": "Ripple Chess",
+      "bundleIdentifier": "nz.pasifikarise.ripplechess",
+      "developerName": "Rise Labs",
+      "subtitle": "Chess that shows what each move causes.",
+      "localizedDescription": "A chess trainer. After every move it shows the consequences as a picture and a plain analogy, with lessons, five opponent levels and five themes.",
+      "iconURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/icons/ripple-chess.png",
+      "tintColor": "3B82C4",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-10T13:57:14+13:00",
+          "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/ripple-chess.ipa",
+          "size": 736037,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-10T13:57:14+13:00",
+      "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/ripple-chess.ipa",
+      "size": 736037,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Setmate",
+      "bundleIdentifier": "nz.pasifikarise.setmate",
+      "developerName": "Rise Labs",
+      "subtitle": "Set timer, routines and training log.",
+      "localizedDescription": "A gym companion. Times sets and rests, builds routines from a 622-exercise library, keeps your history and suggests the next weight. A Mind section covers eating patterns with check-ins, short lessons and an urge timer.\n\nGeneral information only. Not medical advice and not a treatment for an eating disorder.",
+      "iconURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/icons/setmate.png",
+      "tintColor": "C8FF3D",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "2",
+          "date": "2026-11-10T15:26:50+13:00",
+          "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/setmate.ipa",
+          "size": 1537241,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-11-10T15:26:50+13:00",
+      "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/setmate.ipa",
+      "size": 1537241,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Tidy Dash",
+      "bundleIdentifier": "nz.pasifikarise.tidydash",
+      "developerName": "Rise Labs",
+      "subtitle": "A tidy-up race for the whole family.",
+      "localizedDescription": "Turns cleaning a room into a race. Prop the phone in the middle, put one thing away, run back and hit your pad. Surprise rounds, a Mess Monster to beat together, and a mystery prize for the winner that parents choose.\n\nStars and a race track let small children follow their score. No account and nothing uploaded.",
+      "iconURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/icons/tidy-dash.png",
+      "tintColor": "F5B841",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "2",
+          "date": "2026-11-10T23:10:35+13:00",
+          "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/tidy-dash.ipa",
+          "size": 1557174,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.1.0",
+      "versionDate": "2026-11-10T23:10:35+13:00",
+      "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/tidy-dash.ipa",
+      "size": 1557174,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Magic Playground",
+      "bundleIdentifier": "nz.pasifikarise.magicplayground",
+      "developerName": "Rise Labs",
+      "subtitle": "Fourteen floor-play games for small children.",
+      "localizedDescription": "Movement and party games for toddlers and the grown-ups with them: statues, Simon says, treasure hunts and story adventures, with narration and music. Floor-level play only. A grown-up awards the stars.\n\nMusic and sound credits are in the app under Settings.",
+      "iconURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/icons/magic-playground.png",
+      "tintColor": "8B5CF6",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-11-10T22:56:14+13:00",
+          "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/magic-playground.ipa",
+          "size": 32296405,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-10T22:56:14+13:00",
+      "downloadURL": "https://raw.githubusercontent.com/MEDSYNAPSE/sideload/main/ipa/magic-playground.ipa",
+      "size": 32296405,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
